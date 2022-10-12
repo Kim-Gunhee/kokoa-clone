@@ -1,3 +1,3 @@
 # Kokoa Clone 2022
 
-CSS and HTML practice.
+CSS & HTML are so much fun!
