@@ -7,4 +7,4 @@ function getClock(){
     clock.innerText=`${hours}:${date.getMinutes()}:${date.getSeconds()}`;
 }
 getClock();
-setInterval(getClock,1000);
+setInterval(getClock,2000);
